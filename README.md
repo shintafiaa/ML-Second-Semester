@@ -1,1 +1,1 @@
-# My Journey of Second Semester in Learning Machine Learning
+# My Second Semester Journey of Learning Machine Learning
